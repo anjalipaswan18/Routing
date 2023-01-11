@@ -1,0 +1,5 @@
+.Main-page-list {
+  background-color: darkgoldenrod;
+  color: black;
+  flex-direction: row;
+}
