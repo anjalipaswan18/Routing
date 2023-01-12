@@ -1,8 +1,6 @@
 .about {
-  background-color: darkgoldenrod;
-  color: white;
-  box-shadow: 10px 5px darkgoldenrod;
   text-align: center;
+  color: back;
 }
 .about-paragraph {
   width: 100%;

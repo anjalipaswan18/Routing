@@ -10,7 +10,7 @@ function Message() {
           repellendus unde cupiditate nisi ab maiores at, similique provident
           laborum, distinctio recusandae? Impedit at sit blanditiis nam quaerat.
           Eaque impedit in obcaecati quisquam quas voluptate, mollitia harum
-          doloremque fugiat ratione, excepturi quia facilis! Obcaecati
+          doloremque fugiat ratione, excepturi quial facilis! Obcaecati
           repellendus necessitatibus nemo vitae autem, cupiditate hic!
         </p>
       </div>

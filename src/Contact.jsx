@@ -13,7 +13,11 @@ function Contact() {
             placeholder="Enter your Last Name "
           />
           <input type="email" id="email" placeholder="Enter your Email id " />
-          <input type="phone" id="phone" placeholder="Enter your Phone " />
+          <input
+            type="phonenumber"
+            id="phone"
+            placeholder="Enter your Phone "
+          />
         </form>
       </div>
     </div>

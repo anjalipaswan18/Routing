@@ -7,7 +7,7 @@ function About() {
       <div className="about-paragraph">
         <p>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-          eligendi deleniti corrupti magnam consequuntur illum tempora
+          eligendi deleniti corrupti magnam consequunturl illum tempora
           consectetur repellendus repudiandae quia inventore. Quo, numquam?
           Fugiat consectetur dolore, adipisci qui nam minus ipsam? Sint sed quia
           pariatur officiis? Eligendi cupiditate, veritatis vitae, quidem quo et
