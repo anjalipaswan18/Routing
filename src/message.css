@@ -1,0 +1,14 @@
+.heading {
+  background-color: darkgoldenrod;
+  color: white;
+  text-align: center;
+}
+.para {
+  width: 100%;
+
+  background-color: aliceblue;
+  color: black;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}

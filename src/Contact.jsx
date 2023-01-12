@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div className="contact-main-container">
       <div className="contact-list">
-        <h1>Contact</h1>
+        <h1 className="heading">Contact Us</h1>
         <form>
           <input type="name" id="name" placeholder="Enter your First Name " />
           <input
@@ -12,8 +12,8 @@ function Contact() {
             id="last"
             placeholder="Enter your Last Name "
           />
-          <input type="nameid" id="email" placeholder="Enter your Email id " />
-          <input type="namephone" id="phone" placeholder="Enter your Phone " />
+          <input type="email" id="email" placeholder="Enter your Email id " />
+          <input type="phone" id="phone" placeholder="Enter your Phone " />
         </form>
       </div>
     </div>

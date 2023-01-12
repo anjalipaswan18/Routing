@@ -1,5 +1,9 @@
 .Main-page-list {
-  background-color: darkgoldenrod;
+  outline: auto;
   color: black;
-  flex-direction: row;
+  display: flex;
+  /* flex-direction: row; */
+
+  padding: 0 10px;
+  gap: 10px;
 }
