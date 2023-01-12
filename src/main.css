@@ -1,0 +1,9 @@
+.Main-page-list {
+  outline: auto;
+  color: black;
+  display: flex;
+  /* flex-direction: row; */
+
+  padding: 0 10px;
+  gap: 10px;
+}

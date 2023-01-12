@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+  color: back;
+
+}
+.para {
+  width: 100%;
+
+  background-color: aliceblue;
+  color: black;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
